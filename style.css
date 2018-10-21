@@ -1,0 +1,37 @@
+body {
+  background-image: url("https://pm1.narvii.com/6515/d6b8d9b3203ad9b66e4e1271d6308a6e4287ba28_hq.jpg");
+   background-color: #cccccc;
+   color: "mistyrose"
+}
+
+h1 {
+  font-family: 'Tangerine', serif;
+  font-size: 100px;
+  text-shadow: 4px 4px 4px "mistyrose";
+  text-align: center;
+}
+h2 {
+  font-family: 'Tangerine', serif;
+  font-size: 85px;
+  text-shadow: 4px 4px 4px "mistyrose";
+  text-align: center;
+
+}
+h3 {
+  font-family: 'Tangerine', serif;
+  font-size: 60px;
+  text-shadow: 4px 4px 4px "mistyrose";
+  text-align: center;
+
+}
+p {
+  font-family: 'Mali', cursive;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px "mistyrose";
+  text-align: center;
+
+}
+ul{
+font-size: 48px;
+  text-align: center;
+}
